@@ -1,4 +1,4 @@
-# Remote-Sensing-Lectures
+# Remote Sensing Lectures Notes
 
 This repository contains my MATLAB live lecture notes in HTML format. Numerous references are used to produce these lecture notes. The MATLAB live files will be added soon. 
 
