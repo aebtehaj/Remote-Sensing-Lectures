@@ -20,7 +20,7 @@ This repository contains my MATLAB live lecture notes in HTML format. Numerous r
 
 7- [Microwave Radiometry and Radiative Transfer](https://htmlpreview.github.io/?https://github.com/aebtehaj/Intro_Hydrology_Lectures/blob/main/Chapter_07.html)
 
-8- [Emission models and Land observations]
+8- [Emission models and Land observations](https://htmlpreview.github.io/?https://github.com/aebtehaj/Intro_Hydrology_Lectures/blob/main/Chapter_07.html)
 
 Note: These lecture notes are a summary of several materials and many of the images are obtained from the web. The main text is obtained from the following references:
 1- Microwave Radar and Radiometric Remote Sensing (2024), Fawwaz T. Ulaby, David G. Long, William Blackwell, Kamal Sarabandi, Charles Elachi.
