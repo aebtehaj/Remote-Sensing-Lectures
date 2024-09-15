@@ -20,5 +20,5 @@ This repository contains my MATLAB live lecture notes in HTML format. Numerous r
 
 Note: These lecture notes are a summary of several materials and many of the images are obtained from the web. The main text is obtained from the following references:
 
-1. Microwave Radar and Radiometric Remote Sensing (2024), Fawwaz T. Ulaby, David G. Long, William Blackwell, Kamal Sarabandi, Charles Elachi.
-2. Physical Principles of Remote Sensing 2nd Edition by W. G. Rees (Author)
+1. Microwave Radar and Radiometric Remote Sensing (2014), Fawwaz T. Ulaby, David G. Long, William Blackwell, Kamal Sarabandi, Charles Elachi.
+2. Physical Principles of Remote Sensing (2001) 2nd Edition by W. G. Rees.
