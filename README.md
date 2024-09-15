@@ -1,7 +1,5 @@
 # Remote Sensing Lectures Notes
-<p align="center">
-  <img width=80% height=80% src="[https://user-images.githubusercontent.com/46690843/202563958-17da3cae-20d6-4e2d-8e37-ec48d13ad2e8.png](https://github.com/user-attachments/assets/ddc62dca-d842-4408-90b6-edfde1097d7e)">
-</p>
+
 ![smap](https://github.com/user-attachments/assets/ddc62dca-d842-4408-90b6-edfde1097d7e)
 
 This repository contains my MATLAB live lecture notes in HTML format. Numerous references are used to produce these lecture notes. The MATLAB live files will be added soon. 
