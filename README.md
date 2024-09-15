@@ -6,20 +6,22 @@ This repository contains my MATLAB live lecture notes in HTML format. Numerous r
   <img width=30% height=30% src="https://user-images.githubusercontent.com/46690843/202560451-a55bc779-0df9-44e8-8429-ebaeb156a4a1.gif">
 </p>
 
-1- [Hydrologic Water Cycle and Mass Balance](https://htmlpreview.github.io/?https://github.com/aebtehaj/Intro_Hydrology_Lectures/blob/main/Chapter_01.html)
+1- [ Introduction to Remote Sensing](https://htmlpreview.github.io/?https://github.com/aebtehaj/Intro_Hydrology_Lectures/blob/main/Chapter_01.html)
 
-2- [Atmospheric Water and Precipitation](https://htmlpreview.github.io/?https://github.com/aebtehaj/Intro_Hydrology_Lectures/blob/main/Chapter_02.html)
+2- [Remote Sensing Systems for Earth Observations](https://htmlpreview.github.io/?https://github.com/aebtehaj/Intro_Hydrology_Lectures/blob/main/Chapter_02.html)
 
-3- [Solar Radiation and Surface Energy Balance](https://htmlpreview.github.io/?https://github.com/aebtehaj/Intro_Hydrology_Lectures/blob/main/Chapter_03.html)
+3- [Basics of Image Processing and Mapping](https://htmlpreview.github.io/?https://github.com/aebtehaj/Intro_Hydrology_Lectures/blob/main/Chapter_03.html)
 
-4- [Evapotranspiration](https://htmlpreview.github.io/?https://github.com/aebtehaj/Intro_Hydrology_Lectures/blob/main/Chapter_04.html)
+4- [Optical Remote Sensing of Water and Environment](https://htmlpreview.github.io/?https://github.com/aebtehaj/Intro_Hydrology_Lectures/blob/main/Chapter_04.html)
 
-5- [Infiltration](https://htmlpreview.github.io/?https://github.com/aebtehaj/Intro_Hydrology_Lectures/blob/main/Chapter_05.html)
+5- [Basics of Electromagnetics and Wave Propagation](https://htmlpreview.github.io/?https://github.com/aebtehaj/Intro_Hydrology_Lectures/blob/main/Chapter_05.html)
 
-6- [Surface Water and Runoff Processes](https://htmlpreview.github.io/?https://github.com/aebtehaj/Intro_Hydrology_Lectures/blob/main/Chapter_06.html)
+6- [Microwave Dielectric Properties of Natural Earth Materials](https://htmlpreview.github.io/?https://github.com/aebtehaj/Intro_Hydrology_Lectures/blob/main/Chapter_06.html)
 
-7- [Unit Hydrograpgh and Runoff Routing](https://htmlpreview.github.io/?https://github.com/aebtehaj/Intro_Hydrology_Lectures/blob/main/Chapter_07.html)
+7- [Microwave Radiometry and Radiative Transfer](https://htmlpreview.github.io/?https://github.com/aebtehaj/Intro_Hydrology_Lectures/blob/main/Chapter_07.html)
 
-8- [Stream Hydraulics]
+8- [Emission models and Land observations]
 
-9- [Statistical Hydrology]
+Note: These lecture notes are a summary of several materials and many of the images are obtained from the web. The main text is obtained from the following references:
+1- Microwave Radar and Radiometric Remote Sensing (2024), Fawwaz T. Ulaby, David G. Long, William Blackwell, Kamal Sarabandi, Charles Elachi.
+2- Physical Principles of Remote Sensing 2nd Edition by W. G. Rees (Author)
