@@ -2,10 +2,6 @@
 
 This repository contains my MATLAB live lecture notes in HTML format. Numerous references are used to produce these lecture notes. The MATLAB live files will be added soon. 
 
-<p align="center">
-  <img width=30% height=30% src="https://user-images.githubusercontent.com/46690843/202560451-a55bc779-0df9-44e8-8429-ebaeb156a4a1.gif">
-</p>
-
 1- [ Introduction to Remote Sensing](https://htmlpreview.github.io/?https://github.com/aebtehaj/Intro_Hydrology_Lectures/blob/main/Chapter_01.html)
 
 2- [Remote Sensing Systems for Earth Observations](https://htmlpreview.github.io/?https://github.com/aebtehaj/Intro_Hydrology_Lectures/blob/main/Chapter_02.html)
